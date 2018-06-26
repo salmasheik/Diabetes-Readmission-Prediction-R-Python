@@ -1,0 +1,11 @@
+Problem Statement :
+
+ A leading hospital in the US is suddenly seeing increase in the patient readmission in less than 30 days. This is serious concern for the hospital as it may indicate insufficient treatment or diagnosis when the patient was admitted first and later released under clean bill of health. Not only the image of hospital as healthcare provider is compromised, this is also increased cost to the entire Medicare ecosystem in form of increased insurance claims.
+
+Aim:
+Being able to determine factors that lead to higher readmission in such patients, and correspondingly being able to predict which patients will get readmitted can help hospitals save millions of dollars while improving quality of care.
+The objective is: Classify the patients treated by this hospital into two primary categories:
+•	Readmitted within 30 days
+•	Not readmitted
+
+Error metric is recall with "readmitted" as positive and accuracy should be more than 50 %
